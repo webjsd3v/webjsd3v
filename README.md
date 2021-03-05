@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi my name Ilya and i Junior Frontend Developer 👋
 
-<!--
-**webjsd3v/webjsd3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Languages and Tools
 
-Here are some ideas to get you started:
+![HTML](https://img.shields.io/badge/-HTML-083b66?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-083b66?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-083b66?style=for-the-badge&logo=sass)
+![JS](https://img.shields.io/badge/-JavaScript-083b66?style=for-the-badge&logo=javascript)
+![Node](https://img.shields.io/badge/-NodeJs-083b66?style=for-the-badge&logo=node.js)
+![Jest](https://img.shields.io/badge/-Jest-083b66?style=for-the-badge&logo=jest)
+![React](https://img.shields.io/badge/-React-083b66?style=for-the-badge&logo=react)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-083b66?style=for-the-badge&logo=postgresql)
+![WebPack](https://img.shields.io/badge/-WebPack-083b66?style=for-the-badge&logo=webpack)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Follow Me
