@@ -2,6 +2,11 @@
 
 #### Languages and Tools
 
+##### === System ===
+![Python](https://img.shields.io/badge/-Python-083b66?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/-C-083b66?style=for-the-badge&logo=c)
+
+##### === Web ===
 ![HTML](https://img.shields.io/badge/-HTML-083b66?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-083b66?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-083b66?style=for-the-badge&logo=sass)
@@ -10,6 +15,5 @@
 ![Jest](https://img.shields.io/badge/-Jest-083b66?style=for-the-badge&logo=jest)
 ![React](https://img.shields.io/badge/-React-083b66?style=for-the-badge&logo=react)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-083b66?style=for-the-badge&logo=postgresql)
-![WebPack](https://img.shields.io/badge/-WebPack-083b66?style=for-the-badge&logo=webpack)
-
+![WebPack](https://img.shields.io/badge/-WebPack-083b66?style=for-the-badge&logo=webpack) 
 #### Follow Me
