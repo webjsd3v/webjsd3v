@@ -12,15 +12,19 @@
 ![CSS](https://img.shields.io/badge/-CSS-083b66?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-083b66?style=for-the-badge&logo=sass)
 ![JS](https://img.shields.io/badge/-JavaScript-083b66?style=for-the-badge&logo=javascript)
+![Gulp](https://img.shields.io/badge/-Gulp-083b66?style=for-the-badge&logo=gulp)
 
-<!--
+#### === Studying ===
 ![Node](https://img.shields.io/badge/-NodeJs-083b66?style=for-the-badge&logo=node.js)
 ![Jest](https://img.shields.io/badge/-Jest-083b66?style=for-the-badge&logo=jest)
 ![React](https://img.shields.io/badge/-React-083b66?style=for-the-badge&logo=react)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-083b66?style=for-the-badge&logo=postgresql)
 ![WebPack](https://img.shields.io/badge/-WebPack-083b66?style=for-the-badge&logo=webpack) 
--->
 
+#### === Plan ===
+![Miro](https://img.shields.io/badge/-Miro-083b66?style=for-the-badge&logo=miro) 
+![Trello](https://img.shields.io/badge/-Trello-083b66?style=for-the-badge&logo=trello)
+![Slack](https://img.shields.io/badge/-Slack-083b66?style=for-the-badge&logo=slack)
 
 #### Follow Me
 ![VK](https://img.shields.io/badge/-Vk-083b66?style=for-the-badge&logo=vk)
