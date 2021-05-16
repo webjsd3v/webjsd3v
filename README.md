@@ -1,4 +1,5 @@
-### Hi my name Ilya and i Junior Frontend Developer 👋
+### Hi my name Ilya and i beginner Frontend Developer [Intern/Junior] 👋
+
 
 #### Languages and Tools
 
